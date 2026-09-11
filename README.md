@@ -14,5 +14,5 @@ These were, at a minimum, assisted by a language model via a local copy of Qwen 
 
 ## Copy editing, typesetting, and completed manuscript review
 
-These are performed by Claude Opus 4.6 or Fable 5, or future models within the same series. This includes code review, referencing mistakes, typographic errors, etc. The correspondence used to do this will be available with the individual paper.
+These are performed by Claude Opus 4.6 or Fable 5, or future models within the same series. This includes code review, referencing mistakes, typographic errors, etc. This may include editorial and manuscript changes. The correspondence used to do this will be available with the individual paper.
 
